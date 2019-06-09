@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_wp/static/css/main.ceab8a2c.chunk.css",
+    "main.js": "/react_wp/static/js/main.ce868594.chunk.js",
+    "main.js.map": "/react_wp/static/js/main.ce868594.chunk.js.map",
+    "runtime~main.js": "/react_wp/static/js/runtime~main.d476ed89.js",
+    "runtime~main.js.map": "/react_wp/static/js/runtime~main.d476ed89.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react_wp/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react_wp/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react_wp/index.html",
+    "precache-manifest.32653939a7b2287aff0403073b9d22bb.js": "/react_wp/precache-manifest.32653939a7b2287aff0403073b9d22bb.js",
+    "service-worker.js": "/react_wp/service-worker.js",
+    "static/css/main.ceab8a2c.chunk.css.map": "/react_wp/static/css/main.ceab8a2c.chunk.css.map"
+  }
+}
