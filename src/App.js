@@ -17,16 +17,16 @@ class  App  extends  Component {
       <div className="App">
         <div className="App-header">
           <nav>
-          <a href="http://emerald.rf.gd/" target="_blank" rel="noopener noreferrer" style={{color: "yellow", 
+          <a href="http://emerald.rf.gd/" target="_blank" rel="noopener noreferrer" style={{color: "white",
           textDecorationLine: 'none'}}> Home | </a> 
-          <a href="http://emerald.rf.gd/about-us/" target="_blank" rel="noopener noreferrer" style={{color: "yellow", 
-          textDecorationLine: 'none'}}>  About Us  | </a>
-          <a href="http://emerald.rf.gd/help-for-refugees/" target="_blank" rel="noopener noreferrer" style={{color: "yellow", 
+          <a href="http://emerald.rf.gd/about-us/" target="_blank" rel="noopener noreferrer" style={{color: "white",
+          textDecorationLine: 'none'}}>  About   | </a>
+          <a href="http://emerald.rf.gd/help-for-refugees/" target="_blank" rel="noopener noreferrer" style={{color: "white", 
           textDecorationLine: 'none'}}>Help for Refugees | </a>
-          <a href="http://emerald.rf.gd/get-involved/" target="_blank" rel="noopener noreferrer" style={{color: "yellow", 
+          <a href="http://emerald.rf.gd/get-involved/" target="_blank" rel="noopener noreferrer" style={{color: "white", 
           textDecorationLine: 'none'}}>Get Involved  | </a>
-          <a href="http://emerald.rf.gd/contact/" target="_blank" rel="noopener noreferrer" style={{color: "yellow", 
-          textDecorationLine: 'none'}}>Contact Us   </a>
+          <a href="http://emerald.rf.gd/contact/" target="_blank" rel="noopener noreferrer" style={{color: "white", 
+          textDecorationLine: 'none'}}>Contact   </a>
           </nav>
           {/* <br></br><br></br><br></br><br></br><br></br><br></br><br></br> */}
           <h1>ChangeMakers Refugee Forum</h1>
